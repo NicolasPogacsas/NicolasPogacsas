@@ -20,14 +20,15 @@
   height: 80px;
 }
 
-
-a{
-  color: black;
+.home{
+  color: white;
 }
+
+
 
 body
 {
-    background: url(img/backgroundM.svg);
+    background: url(../img/backgroundM.svg);
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size:cover;
@@ -149,7 +150,7 @@ color: white;
     height: 100%;
     color: white;
     font-family: 'Roboto';
-    font-size: 16px;
+    font-size: 18px;
 }
 
 p{
