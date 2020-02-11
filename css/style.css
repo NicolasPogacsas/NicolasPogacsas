@@ -1,5 +1,5 @@
 body{
-  background: url(Pictures/backgroundM.svg);
+  background: url(../img/backgroundM.svg);
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
@@ -15,9 +15,10 @@ body{
     text-decoration: none;
 }
 
-a{
+.home{
   color: white;
 }
+
 .Resume{
 position: absolute;
 top: 80px;

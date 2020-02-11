@@ -22,12 +22,12 @@
 
 
 a{
-  color: white;
+  color: black;
 }
 
 body
 {
-    background: url(Pictures/backgroundM.svg);
+    background: url(../img/backgroundM.svg);
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size:cover;
