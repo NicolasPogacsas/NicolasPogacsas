@@ -1,0 +1,132 @@
+body{
+  background: url(../img/backgroundM.svg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  padding: -10;
+  margin: 0;
+
+}
+
+* {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    text-decoration: none;
+}
+
+.home{
+  color: white;
+}
+
+.Resume{
+position: absolute;
+top: 80px;
+bottom: 100px;
+left: 150px;
+right: auto;
+}
+
+.middle{
+  width: 100%;
+  height: 600px;
+  display: block;
+  background-color: white;
+  margin-left: inherit;
+  margin-right: inherit;
+  margin-top: auto;
+  opacity: 0.96;
+}
+
+.aboutme{
+  text-align: center;
+  background-color: white;
+  width: 500px;
+  text-align: left;
+  padding-left: 500px;
+  padding-top: 35px;
+  font-family: Roboto;
+}
+.textbble{
+  width: 60%;
+  height: 200px;
+  display: block;
+  background-color: white;
+}
+
+
+.header {
+    width: 100%;
+    height: 80px;
+    display: block;
+    background-color: #101010;
+}
+
+.me{
+  z-index: 2;
+  float: left;
+  margin-top: 90px;
+  margin-left: 50px;
+  width: 400px;
+  height: 400px;
+  line-height: 50px;
+  border-radius: 50%;
+  align: middle;
+  position: absolute;
+}
+
+.resume1{
+  padding-left: 1000px;
+}
+
+.inner_header {
+    width: 1000px;
+    height: 100%;
+    display: block;
+    margin: 0 auto;
+}
+
+.logo_container {
+    height: 100%;
+    display: table;
+    float: left;
+}
+
+.logo_container h1 {
+    color: white;
+    height: 100%;
+    display: table-cell;
+    vertical-align: middle;
+    font-family: 'Roboto';
+    font-size: 32px;
+    font-weight: 200;
+}
+
+.logo_container h1 span {
+    font-weight: 800;
+}
+
+.navigation {
+    float: right;
+    height: 100%;
+}
+
+.navigation a {
+    height: 100%;
+    display: table;
+    float: left;
+    padding: 0px 20px;
+}
+
+.navigation a:last-child {
+    padding-right: 0;
+}
+
+.navigation a li {
+    display: table-cell;
+    vertical-align: middle;
+    height: 100%;
+    color: white;
+    font-family: 'Roboto';
+    font-size: 16px;
+}
