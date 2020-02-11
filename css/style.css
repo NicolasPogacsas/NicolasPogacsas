@@ -37,6 +37,14 @@ right: auto;
   margin-right: inherit;
   margin-top: auto;
   opacity: 0.96;
+  margin-top: 50px;
+}
+
+.blank{
+  height: 50px;
+  width: 100%;
+  background-color: red;
+  opacity: 0.0;
 }
 
 .aboutme{

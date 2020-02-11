@@ -27,7 +27,7 @@ a{
 
 body
 {
-    background: url(../img/backgroundM.svg);
+    background: url(img/backgroundM.svg);
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size:cover;
