@@ -1,0 +1,108 @@
+body{
+  background-color: black;
+  margin: 0;
+  padding: 0;
+
+}
+
+*{
+  color: aliceblue;
+  font-family: roboto;
+  font-weight: bold;
+}
+
+div{
+  padding: 25px;
+  text-align: center;
+  width: 25%;
+  margin-top: 10px;
+}
+.Stier{
+  background-color: pink;
+  position: relative;
+}
+.Atier{
+  background-color: red;
+  position: relative;
+  
+}
+.Btier{
+  background-color: blue;
+  position: relative;
+}
+.Ctier{
+  background-color: green;
+  position: relative;
+}
+
+.Ftier{
+  background-color: purple;
+  position: relative;
+}
+
+.texts{
+  width: 100%;
+  background-color: rgb(44, 44, 44);
+  float: right;
+  position: fixed;
+  text-align: left;
+  padding-left: 170px;
+  text-overflow: inherit;
+  max-height: 55px;
+  
+}
+
+.texta{  
+  width: 100%;
+  background-color: rgb(44, 44, 44);
+  float: right;
+  position: fixed;
+  text-align: left;
+  padding-left: 170px;
+  text-overflow: inherit;
+  max-height: 55px;
+}
+
+.textb{  
+  width: 100%;
+  background-color: rgb(44, 44, 44);
+  float: right;
+  position: fixed;
+  text-align: left;
+  padding-left: 170px;
+  text-overflow: inherit;
+  max-height: 55px;
+}
+
+.textc{
+  width: 100%;
+  background-color: rgb(44, 44, 44);
+  float: right;
+  position: fixed;
+  text-align: left;
+  padding-left: 170px;
+  text-overflow: inherit;
+  max-height: 55px;
+}
+
+.textd{
+  width: 100%;
+  background-color: rgb(44, 44, 44);
+  float: right;
+  position: fixed;
+  text-align: left;
+  padding-left: 170px;
+  text-overflow: inherit;
+  max-height: 55px;
+}
+
+.textf{
+  width: 100%;
+  background-color: rgb(44, 44, 44);
+  float: right;
+  position: fixed;
+  text-align: left;
+  padding-left: 170px;
+  text-overflow: inherit;
+  max-height: 55px;
+}
